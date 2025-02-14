@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tushar Balakrishnan and I'm a Senior Systems Engineer at Infosys!</h2>
+<h2 align="left">Hi 👋! My name is Tushar Balakrishnan and I'm an Associate Consultant at Infosys!</h2>
 
 ###
 
